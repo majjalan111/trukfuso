@@ -3,7 +3,7 @@
     {
       "status": 1,
       "redirect_url": "",
-      "privacy_policy_url": "https://starmoonmod.blogspot.com/2023/06/privacy-policy.html",
+      "privacy_policy_url": "",
       "email_feedback_and_report": "yanahnurhasanah1976@gmail.com",
       "webview_cache": false,
       "post_list_in_large_style": false,
@@ -76,17 +76,17 @@
     {
       "id": 1,
       "category": "Mod Bussid",
-      "title": "Koleksi Map jalan rusak bagian 1",
+      "title": "Kumpulan truk fuso bagian 1",
       "image": "https://raw.githubusercontent.com/salma1241/liverystjdraka.json/main/stjdraka.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/majujalan/main/jalanrusak1.html",
+      "content": "https://htmlpreview.github.io/?https://github.com/majjalan111/trukfuso/edit/main/trukfuso1.html",
       "video": ""
     },
 {
       "id": 2,
       "category": "Mod Bussid",
-      "title": "Koleksi Map jalan rusak bahian 2",
+      "title": "Kumpulan truk fuso bagian 2",
       "image": "https://raw.githubusercontent.com/salma1241/liverystjdraka.json/main/stjdraka.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/majujalan/main/jalanrusak2.html",
+      "content": "https://htmlpreview.github.io/?https://github.com/majjalan111/trukfuso/edit/main/trukfuso2.html",
       "video": ""
     }
 		
