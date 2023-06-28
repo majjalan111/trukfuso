@@ -68,14 +68,14 @@
   "categories": [
     {
       "id": 1,
-      "name": "Mod Bussid",
+      "name": "Mod Truk Fuso",
       "image": "https://raw.githubusercontent.com/majjalan111/trukfuso/main/fuso%20fitur.png"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Mod Bussid",
+      "category": "Mod Truk Fuso",
       "title": "Kumpulan truk fuso bagian 1",
       "image": "https://raw.githubusercontent.com/majjalan111/trukfuso/main/fuso%20fitur.png",
       "content": "https://htmlpreview.github.io/?https://github.com/majjalan111/trukfuso/edit/main/trukfuso1.html",
@@ -83,7 +83,7 @@
     },
 {
       "id": 2,
-      "category": "Mod Bussid",
+      "category": "Mod Truk Fuso",
       "title": "Kumpulan truk fuso bagian 2",
       "image": "https://raw.githubusercontent.com/majjalan111/trukfuso/main/fuso%20fitur.png",
       "content": "https://htmlpreview.github.io/?https://github.com/majjalan111/trukfuso/edit/main/trukfuso2.html",
@@ -91,7 +91,7 @@
     },
 {
       "id": 3,
-      "category": "Mod Bussid",
+      "category": "Mod Truk Fuso",
       "title": "Kumpulan truk fuso bagian 3",
       "image": "https://raw.githubusercontent.com/majjalan111/trukfuso/main/fuso%20fitur.png",
       "content": "https://htmlpreview.github.io/?https://github.com/majjalan111/trukfuso/edit/main/trukfuso3.html",
@@ -99,7 +99,7 @@
     },
 {
       "id": 4,
-      "category": "Mod Bussid",
+      "category": "Mod Truk Fuso",
       "title": "Kumpulan truk fuso bagian 4",
       "image": "https://raw.githubusercontent.com/majjalan111/trukfuso/main/fuso%20fitur.png",
       "content": "https://htmlpreview.github.io/?https://github.com/majjalan111/trukfuso/edit/main/trukfuso4.html",
